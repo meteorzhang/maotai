@@ -1,0 +1,1185 @@
+2021-01-06 14:13:08,412 - 28437-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): order.jd.com
+2021-01-06 14:13:13,583 - 28437-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): a.jd.com
+2021-01-06 14:13:13,827 - 28437-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:405] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-01-06 14:13:13,828 - 28437-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:13:14,315 - 28437-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): qr.m.jd.com
+2021-01-06 14:13:14,571 - 28437-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:186] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-01-06 14:13:44,193 - 28437-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: qr.m.jd.com
+2021-01-06 14:13:44,237 - 28437-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:220] - INFO: 已完成手机客户端确认
+2021-01-06 14:13:44,239 - 28437-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:13:44,386 - 28437-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: order.jd.com
+2021-01-06 14:13:44,641 - 28437-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:274] - INFO: 二维码登录成功
+2021-01-06 14:13:44,642 - 28437-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:13:44,685 - 28437-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:355] - INFO: 自动获取JdTdudfp发生异常，将从配置文件读取！
+2021-01-06 14:13:44,705 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:477] - INFO: 超过允许的运行时间，任务结束。
+2021-01-06 14:13:44,706 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:477] - INFO: 超过允许的运行时间，任务结束。
+2021-01-06 14:13:44,706 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:477] - INFO: 超过允许的运行时间，任务结束。
+2021-01-06 14:13:44,706 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:477] - INFO: 超过允许的运行时间，任务结束。
+2021-01-06 14:13:44,707 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:477] - INFO: 超过允许的运行时间，任务结束。
+2021-01-06 14:13:44,707 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:13:44,708 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:13:44,708 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:13:44,708 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:13:44,709 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:13:44,739 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:13:44,740 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:13:44,741 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:13:44,742 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:13:44,744 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:208] - INFO: Starting new HTTP connection (1): www.jd.com
+2021-01-06 14:13:44,745 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): www.jd.com
+2021-01-06 14:13:44,745 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): www.jd.com
+2021-01-06 14:13:44,933 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:13:44,933 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-01 10:00:00，检测本地时间与京东服务器时间误差为【-260】毫秒
+2021-01-06 14:13:44,933 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:13:44,941 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:53] - INFO: 时间到达，开始执行……
+2021-01-06 14:13:44,941 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-01 10:00:00，检测本地时间与京东服务器时间误差为【-260】毫秒
+2021-01-06 14:13:44,941 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:53] - INFO: 时间到达，开始执行……
+2021-01-06 14:13:44,941 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): www.jd.com
+2021-01-06 14:13:44,943 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): itemko.jd.com
+2021-01-06 14:13:44,943 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): itemko.jd.com
+2021-01-06 14:13:45,081 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:13:45,113 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:13:45,226 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,226 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,294 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:13:45,301 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:13:45,346 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:13:45,406 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:13:45,406 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-01 10:00:00，检测本地时间与京东服务器时间误差为【-260】毫秒
+2021-01-06 14:13:45,406 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:53] - INFO: 时间到达，开始执行……
+2021-01-06 14:13:45,408 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): itemko.jd.com
+2021-01-06 14:13:45,419 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,438 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,453 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,454 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,473 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,488 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:13:45,551 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:13:45,552 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:13:45,601 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,627 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:13:45,628 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-01 10:00:00，检测本地时间与京东服务器时间误差为【-260】毫秒
+2021-01-06 14:13:45,628 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:53] - INFO: 时间到达，开始执行……
+2021-01-06 14:13:45,629 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): itemko.jd.com
+2021-01-06 14:13:45,629 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,636 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,648 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,666 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,673 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,686 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,721 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:13:45,722 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:13:45,845 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,848 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:13:45,849 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-01 10:00:00，检测本地时间与京东服务器时间误差为【-260】毫秒
+2021-01-06 14:13:45,849 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:53] - INFO: 时间到达，开始执行……
+2021-01-06 14:13:45,852 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): itemko.jd.com
+2021-01-06 14:13:45,858 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,878 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,884 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,897 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,901 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,916 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,937 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:45,975 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:45,987 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,012 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,043 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,071 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,079 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,082 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,126 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,126 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,140 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,178 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,198 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,236 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,237 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,264 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,277 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,301 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,385 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,386 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,407 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,442 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,446 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,446 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,470 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,501 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,573 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,588 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,613 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,633 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,645 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,669 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,670 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,714 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,719 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,764 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,833 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,862 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,892 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,895 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,920 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,922 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,941 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,956 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:46,956 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:46,993 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,062 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,094 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,113 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,121 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,149 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,160 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,190 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,207 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,247 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,253 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,289 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,324 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,343 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,365 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,413 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,443 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,474 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,483 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,502 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,534 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,593 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,629 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,636 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,670 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,699 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,754 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,758 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,782 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,797 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,799 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,825 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,841 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,850 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,902 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:47,969 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:47,972 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,005 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,021 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,023 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,042 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,085 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,123 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,174 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,193 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,225 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,233 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,272 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,278 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,315 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,319 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,323 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,380 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,405 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,407 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,434 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,460 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,461 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,463 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,486 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,505 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,610 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,626 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,651 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,666 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,677 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,687 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,750 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,757 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,808 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,808 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,814 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,844 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,849 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,894 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,927 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,929 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,974 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:48,986 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:48,989 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,028 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,101 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,143 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,178 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,183 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,232 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,234 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,276 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,281 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,310 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,315 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,385 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,407 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,425 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,426 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,443 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,461 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,464 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,503 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,531 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,579 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,585 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,618 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,645 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,679 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,726 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,741 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,765 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,773 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,780 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,819 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,859 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,919 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,919 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,935 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:49,954 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,970 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:49,987 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,038 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,046 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,094 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,096 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,153 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,166 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,169 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,171 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,210 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,210 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,212 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,246 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,304 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,325 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,332 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,366 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,367 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,367 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,405 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,438 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,494 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,500 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,535 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,550 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,566 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,587 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,618 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,626 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,672 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,731 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,758 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,781 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,784 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,788 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,810 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,826 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,831 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,915 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,940 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:50,971 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:50,998 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,041 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,077 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,088 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,099 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,129 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,139 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,140 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,189 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,195 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,246 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,307 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,308 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,368 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,369 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,402 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,418 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,419 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,459 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,473 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,473 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,608 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,620 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,620 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,658 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,660 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,661 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,664 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,694 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,733 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,793 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,851 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,866 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,866 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:51,893 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,906 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,907 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:51,983 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,037 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,041 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,043 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,073 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,080 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,176 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,196 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,223 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,232 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,245 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,253 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,264 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,287 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,338 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,352 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,395 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,411 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,411 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,450 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,459 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,469 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,502 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,518 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,576 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,578 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,610 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,629 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,630 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,647 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,685 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,708 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,743 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,761 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,812 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,820 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,857 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,871 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,874 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,904 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:52,909 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:52,952 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,018 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,068 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,078 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,102 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,107 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,126 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,152 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,155 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,173 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,233 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,276 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,276 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,318 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,337 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,337 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,368 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,418 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,477 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,495 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,527 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,555 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,582 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,628 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,634 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,685 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,685 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,692 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,742 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,744 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,751 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,792 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,799 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,907 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,951 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:53,956 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,963 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,977 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:53,995 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,010 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,014 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,024 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,032 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,068 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,118 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,128 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,174 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,196 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,246 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,254 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,265 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,273 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,290 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,309 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,315 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,398 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,436 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,453 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,466 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,500 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,516 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,598 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,610 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,634 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,657 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,666 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,682 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,777 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,800 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,811 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,823 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,831 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,838 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:54,847 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,849 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,858 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,875 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:54,981 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,034 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,087 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,096 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,101 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,111 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,128 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,133 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,137 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,148 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,300 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,337 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,342 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,345 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,386 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,401 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,405 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,436 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,438 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,487 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,493 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,542 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,561 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,581 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,624 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,641 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,678 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,713 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,734 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,769 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,769 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,778 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,810 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,823 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,901 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,928 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,952 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,959 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,979 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:55,985 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:55,995 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,001 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,024 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,041 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,135 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,196 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,204 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,223 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,249 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,253 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,274 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,280 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,309 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,320 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,347 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,407 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,409 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,435 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,445 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,473 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,476 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,524 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,616 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,632 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,659 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,670 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,711 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,756 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,774 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,778 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,800 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,814 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,828 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,829 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,849 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,857 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:56,955 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,966 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:56,992 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,013 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,023 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,042 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,045 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,071 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,084 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,117 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,167 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,202 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,227 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,227 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,232 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,254 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,264 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,274 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,307 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,365 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,383 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,440 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,441 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,456 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,482 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,492 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,497 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,539 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,567 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,619 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,630 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,647 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,677 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,683 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,701 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,725 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,733 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,794 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,801 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,808 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,859 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,867 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,902 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,939 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:57,957 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,975 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:57,995 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,015 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,033 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,047 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,048 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,075 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,090 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,118 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,286 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,309 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,313 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,325 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,343 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,353 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,357 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,390 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,404 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,450 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,541 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,560 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,572 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,590 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,619 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,632 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,641 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,705 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,746 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,746 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,788 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,788 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,888 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,888 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,938 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,949 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:58,949 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,949 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,993 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:58,998 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,060 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,065 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,120 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,126 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,153 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,182 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,195 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,225 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,236 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,281 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,292 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,331 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,352 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,382 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,407 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,433 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,449 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,478 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,485 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,543 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,603 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,605 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,643 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,647 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,657 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,658 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,690 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,690 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,800 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,858 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,888 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,897 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,903 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,946 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,950 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:13:59,959 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:13:59,962 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,004 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,115 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,147 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,155 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,183 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,202 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,225 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,246 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,259 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,274 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,285 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,338 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,347 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,384 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,395 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,399 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,439 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,542 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,560 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,563 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,591 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,596 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,602 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,656 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,699 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,705 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,729 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,736 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,746 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,760 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,778 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,782 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,791 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,889 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,943 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:00,950 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:00,954 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,001 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,008 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,020 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,038 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,077 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,084 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,176 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,217 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,220 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,226 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,228 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,263 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,280 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,283 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,358 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,407 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,414 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,441 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,444 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,475 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,501 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,559 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,570 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,614 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,697 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,710 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,748 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,750 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,751 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,785 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,785 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,837 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,855 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,862 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,896 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,899 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,908 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,933 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:01,950 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:01,982 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,015 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,021 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,062 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,062 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,121 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,170 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,172 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,227 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,255 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,265 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,277 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,295 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,309 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,324 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,441 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,450 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,492 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,492 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,497 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,514 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,527 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,536 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,539 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,587 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,621 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,682 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,745 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,756 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,782 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,783 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,790 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,794 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,820 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,831 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,893 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,949 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,956 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:02,993 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:02,993 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,005 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,048 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,062 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,087 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,089 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,128 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,129 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,181 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,188 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,212 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,224 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,228 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,231 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,251 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,266 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,337 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,340 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,353 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,373 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,378 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,390 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,441 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,497 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,503 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,553 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,560 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,571 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,606 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,611 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,625 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,662 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,766 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,793 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,797 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,824 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,836 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,846 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,851 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,851 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:03,882 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,913 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:03,975 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,032 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,037 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,059 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,073 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,078 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,093 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,114 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,172 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,201 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,230 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,252 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,264 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,267 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,309 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,312 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,335 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,396 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,473 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,487 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,498 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,510 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,525 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,537 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,542 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,574 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,596 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,623 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,627 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,686 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,696 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,734 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,742 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,769 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,782 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,796 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,820 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,843 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,844 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,852 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:04,899 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:04,908 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,029 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,033 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,046 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,086 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,087 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,090 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,106 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,138 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,183 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,240 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,244 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,287 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,293 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,321 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,335 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,349 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,363 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,405 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,480 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,537 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,546 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,547 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,581 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,591 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,591 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,642 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,654 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,710 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,711 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,747 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,756 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,790 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,857 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,879 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,881 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,913 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,935 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,937 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,938 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,940 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:05,982 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:05,982 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,082 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,088 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,123 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,144 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,148 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,148 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,174 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,176 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,184 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,211 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,263 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,284 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,308 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,345 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,357 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,418 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,483 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,489 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,503 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,536 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,542 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,548 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,635 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,666 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,692 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,710 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,715 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,739 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,765 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,786 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,797 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,842 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,863 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,915 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:06,964 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:06,990 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,021 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,028 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,051 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,087 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,113 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,126 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,162 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,175 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,215 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,275 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,278 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,284 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,284 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,333 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,335 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,337 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,358 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,414 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,496 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,511 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,530 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,555 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,579 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,599 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,641 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,657 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,690 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,707 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,748 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,761 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,777 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,786 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,811 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,829 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,838 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,858 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:07,863 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,909 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:07,995 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,034 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,053 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,092 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,094 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,122 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,128 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,144 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,177 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,179 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,283 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,306 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,328 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,339 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,355 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,373 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,389 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,398 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,447 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,455 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,545 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,561 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,570 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,589 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,605 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,629 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,644 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,653 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,699 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,711 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,728 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,780 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,834 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,870 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,902 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,903 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,904 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,932 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:08,944 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,945 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,946 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,985 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:08,995 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,048 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,109 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,168 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,185 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,205 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,208 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,244 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,249 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,253 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,270 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,321 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,386 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,396 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,406 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,434 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,436 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,438 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,442 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,444 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,472 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,482 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,556 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,580 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,599 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,612 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,624 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,640 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,706 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,748 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,768 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,809 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,835 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,851 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,876 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,912 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:09,924 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:09,982 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,000 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,015 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,024 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,060 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,061 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,082 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,173 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,205 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,210 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,230 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,250 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,255 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,260 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,264 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,303 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,307 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,412 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,414 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,426 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,449 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,450 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,454 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,460 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,484 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,491 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,525 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,568 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,593 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,615 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,625 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,651 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,660 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,678 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,722 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,737 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,765 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,795 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,803 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,818 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,828 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,856 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,879 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,919 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:10,957 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:10,974 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,011 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,045 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,074 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,082 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,100 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,111 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,120 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,160 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,169 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,203 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,233 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,244 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,277 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,289 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,348 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,353 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,383 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,392 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,394 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,397 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,419 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,429 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,433 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,588 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,617 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,628 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,642 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,647 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,667 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,672 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,679 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,682 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,724 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,871 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,906 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,911 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:11,932 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,958 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,962 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:11,963 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,008 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,014 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,071 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,113 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,143 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,153 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,189 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,211 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,246 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,252 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,288 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,306 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,365 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,378 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,387 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,419 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,421 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,428 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,454 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,473 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,496 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,585 - 28477-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,619 - 28473-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,623 - 28474-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,627 - 28475-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,637 - 28477-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,655 - 28473-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,661 - 28474-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,666 - 28475-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:14:12,698 - 28476-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: itemko.jd.com
+2021-01-06 14:14:12,736 - 28476-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:572] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 14:15:09,548 - 28498-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): order.jd.com
+2021-01-06 14:15:10,023 - 28498-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): a.jd.com
+2021-01-06 14:15:16,348 - 28498-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:355] - INFO: 自动获取JdTdudfp发生异常，将从配置文件读取！
+2021-01-06 14:15:16,357 - 28509-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:15:16,357 - 28508-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:15:16,357 - 28507-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:15:16,357 - 28510-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:15:16,357 - 28511-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): passport.jd.com
+2021-01-06 14:15:16,721 - 28507-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:15:16,721 - 28508-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:15:16,722 - 28510-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:208] - INFO: Starting new HTTP connection (1): www.jd.com
+2021-01-06 14:15:16,722 - 28511-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): www.jd.com
+2021-01-06 14:15:16,722 - 28507-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:15:16,722 - 28508-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:15:16,725 - 28509-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:208] - INFO: Starting new HTTP connection (1): www.jd.com
+2021-01-06 14:15:16,916 - 28509-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): www.jd.com
+2021-01-06 14:15:16,920 - 28510-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): www.jd.com
+2021-01-06 14:15:17,069 - 28511-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:15:17,138 - 28509-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:15:17,145 - 28510-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:15:17,217 - 28511-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:15:17,218 - 28511-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:15:17,309 - 28509-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:15:17,315 - 28509-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:15:17,552 - 28510-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:243] - INFO: Resetting dropped connection: passport.jd.com
+2021-01-06 14:15:17,871 - 28510-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:577] - INFO: 用户:-火流星-
+2021-01-06 14:15:17,873 - 28510-MainThread - /usr/lib/python3/dist-packages/urllib3/connectionpool.py[line:761] - INFO: Starting new HTTPS connection (1): item.jd.com
+2021-01-06 14:15:18,128 - 28508-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:15:18,128 - 28511-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:15:18,128 - 28511-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-07 10:00:00，检测本地时间与京东服务器时间误差为【-1177】毫秒
+2021-01-06 14:15:18,128 - 28508-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-07 10:00:00，检测本地时间与京东服务器时间误差为【-1177】毫秒
+2021-01-06 14:15:18,128 - 28509-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:15:18,128 - 28510-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:15:18,129 - 28509-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-07 10:00:00，检测本地时间与京东服务器时间误差为【-1177】毫秒
+2021-01-06 14:15:18,129 - 28510-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-07 10:00:00，检测本地时间与京东服务器时间误差为【-1177】毫秒
+2021-01-06 14:15:18,161 - 28507-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/jd_spider_requests.py[line:578] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 14:15:18,162 - 28507-MainThread - /home/fufu/Downloads/jd_kill/jd_seckill/timer.py[line:48] - INFO: 正在等待到达设定时间:2021-01-07 10:00:00，检测本地时间与京东服务器时间误差为【-1177】毫秒
